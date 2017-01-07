@@ -1,2 +1,1 @@
-# AngularSpringmvcMybatisMavenWebapp
-seed project
+#AngularSpringmvcMybatis
